@@ -7,7 +7,8 @@ Notaion is an online study platform designed to facilitate learning and teaching
 - **Admin**: Can manage users and oversee platform activities.
 
 This project is built using the MERN stack (MongoDB, Express, React, Node.js).
-![ss](https://github.com/Pawan2030/Study-Online/assets/136910101/16aeb5be-f186-4cff-b238-6e59eb7f2cd6)
+![Screenshot 2024-06-21 143523](https://github.com/Pawan2030/Study-online-Full-Stack-Project/assets/136910101/39fbeb22-f679-4d15-b1e6-1069be937e53)
+
 
 
 ## Features
